@@ -33,7 +33,9 @@ header{
 /* main- */
 
 /* section-2 */
-
+.cbr-honda{
+    margin: 58px 0;
+}
 
 .honda-grayscale{
     filter: grayscale(100%);
