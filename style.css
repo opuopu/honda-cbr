@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* common-css */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1,h2,h3{
+    font-weight: 600;
+}
+.title{
+    
+    font-size: 48px;
+    line-height: 72px;
+}
+
+.buy-now{
+    background-color: #E76F51;
+    border: 0;
+}
+/* header */
+header{
+    background-color: #264653;
+    width: 100%;
+}
+.header-details{
+    line-height: 24px;
+    color: #E0E0E0;
+}
+
+/* main- */
+
+/* section-2 */
+
+
+.honda-grayscale{
+    filter: grayscale(100%);
+}
+
+/* section-3 */
+ .author-image{
+     padding: 45px 0;
+ }
+
+
+ /* footer */
+
+ .left-side h4{
+     color: #E76F51;
+ }
+
+ .footer-ancor{
+     text-decoration: none;
+     color: #E76F51;
+ }
